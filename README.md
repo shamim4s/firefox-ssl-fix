@@ -1,0 +1,1 @@
+# firfox-ssl-fix
