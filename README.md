@@ -9,3 +9,5 @@ step 02
 ```
 network.stricttransportsecurity.preloadlist
 ```
+step 03
+Disable
